@@ -1,0 +1,16 @@
+{
+  "name": "homework_17_jquery_modal",
+  "version": "1.0.0",
+  "description": "Modal window hw17",
+  "main": "modal.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server"
+  },
+  "author": "YBAR",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^14.1.1",
+    "jquery": "^3.7.0"
+  }
+}
